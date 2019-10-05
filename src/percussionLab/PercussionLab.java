@@ -6,7 +6,6 @@
  * 					Omar Kermiche
  * 					Autumn Nguyen
  * 					Thomas Pridy
- * fdfdfdfd
  * 
  * Copyright © 2019. All rights reserved.
  ******************************************************************************/
