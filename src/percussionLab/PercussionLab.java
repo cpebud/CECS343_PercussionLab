@@ -7,7 +7,7 @@
  * 					Autumn Nguyen
  * 					Thomas Pridy
  * 
- * Copyright © 2019. All rights reserved.
+ * Copyright ï¿½ 2019. All rights reserved.
  ******************************************************************************/
 package percussionLab;
 
